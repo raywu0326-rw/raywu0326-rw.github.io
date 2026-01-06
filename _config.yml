@@ -23,6 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: sunrise
 search: true
+favicon: "/assets/images/favicon.ico"
 
 # Build settings
 markdown: kramdown
